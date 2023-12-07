@@ -21,3 +21,4 @@ public class TestRecap {
         System.out.println("Celkova cena je " + finalPrice);
     }
 }
+
